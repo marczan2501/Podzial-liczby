@@ -16,3 +16,9 @@ C:\Users\Marek\Desktop\10\Zadanie 10 Podział Liczb konsola\Zadanie 10 Podział 
 C:\Users\Marek\Desktop\10\Zadanie 10 Podział Liczb konsola\Zadanie 10 Podział Liczb konsola\bin\Debug\Zadanie 10 Podział Liczb konsola.exe
 C:\Users\Marek\Desktop\10\Zadanie 10 Podział Liczb konsola\Zadanie 10 Podział Liczb konsola\bin\Debug\Zadanie 10 Podział Liczb konsola.pdb
 C:\Users\Marek\Desktop\10\Zadanie 10 Podział Liczb konsola\Zadanie 10 Podział Liczb konsola\obj\Debug\Zadanie 10 Podział Liczb konsola.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Source\Repos\Podzial-liczby\Zadanie 10 Podział Liczb konsola\bin\Debug\Zadanie 10 Podział Liczb konsola.exe.config
+C:\Users\Marek\Source\Repos\Podzial-liczby\Zadanie 10 Podział Liczb konsola\obj\Debug\Zadanie 10 Podział Liczb konsola.exe
+C:\Users\Marek\Source\Repos\Podzial-liczby\Zadanie 10 Podział Liczb konsola\obj\Debug\Zadanie 10 Podział Liczb konsola.pdb
+C:\Users\Marek\Source\Repos\Podzial-liczby\Zadanie 10 Podział Liczb konsola\bin\Debug\Zadanie 10 Podział Liczb konsola.exe
+C:\Users\Marek\Source\Repos\Podzial-liczby\Zadanie 10 Podział Liczb konsola\bin\Debug\Zadanie 10 Podział Liczb konsola.pdb
+C:\Users\Marek\Source\Repos\Podzial-liczby\Zadanie 10 Podział Liczb konsola\obj\Debug\Zadanie 10 Podział Liczb konsola.csprojResolveAssemblyReference.cache

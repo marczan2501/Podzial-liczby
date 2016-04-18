@@ -48,10 +48,10 @@ namespace Zadanie_10_Podział_Liczb_konsola
             number = int.Parse(Console.ReadLine());
 
                                         //rozpocznij zapis
-            //Console.SetOut(writer);   //przełączyć tylko kiedy chcemy zapisać do pliku
+            //Console.SetOut(writer);   //tylko kiedy chcemy zapisać do pliku
                                         //włącz odliczanie
             Stopwatch timer = Stopwatch.StartNew();
-            division(1, number, tab);   //mieżymy czas tylko dla działania funkcji a nie całego programu
+            division(1, number, tab);   //mierzymy czas tylko dla działania funkcji a nie całego programu
                                         //zatrzymaj odliczanie
             timer.Stop();
                                         //wypisanie statystyk
@@ -81,8 +81,8 @@ namespace Zadanie_10_Podział_Liczb_konsola
             if (numbPos == 0)
             {
                 #region do celów demonstracyjnych można za komentować
-                                        //wypisanie liczba = suma
-                                        //np.: 10 = 1 + 2 + 3 + 4
+                //wypisanie liczba = suma
+                //np.: 10 = 1 + 2 + 3 + 4
                 Console.Write(number + " = ");
                 for (int i = 1; i <= position - 2; i++)
                 {
